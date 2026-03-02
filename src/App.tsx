@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { marked } from "https://cdnjs.cloudflare.com/ajax/libs/marked/16.3.0/lib/marked.esm.js";
+import { marked } from "marked";
 
 function App() {
     const [markdown, setMarkdown] = useState(``);
