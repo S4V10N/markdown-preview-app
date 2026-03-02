@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github repo](https://github.com/your-username/markdown-previewer)
+- Solution URL: [Github repo](https://github.com/S4V10N/markdown-preview-app.git)
 - Live Site URL: [Live preview](https://your-live-site-url.com)
 
 ---
