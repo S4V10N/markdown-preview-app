@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { marked } from "marked";
+import { marked } from "https://cdnjs.cloudflare.com/ajax/libs/marked/16.3.0/lib/marked.esm.js";
 
 function App() {
     const [markdown, setMarkdown] = useState(``);
@@ -44,7 +44,7 @@ function App() {
                                prose-pre:bg-slate-700
                                prose-pre:text-green-200
                                prose-pre:p-4
-                               prose-pre:rounded-lg bg-green-100 wrap-break-word"
+                               prose-pre:rounded-lg bg-green-100 break-words"
                 dangerouslySetInnerHTML={{ __html: html }}
             />
         </section>
