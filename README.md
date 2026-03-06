@@ -28,7 +28,7 @@ Users should be able to:
 - View properly formatted headings (H1–H6)
 - See styled inline code and code blocks
 - View lists, links, bold text, and other Markdown elements correctly rendered
-- Experience a responsive layout across different screen sizes
+- Experience a responsive layout
 
 ---
 
